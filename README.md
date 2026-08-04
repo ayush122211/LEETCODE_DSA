@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
+| [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
