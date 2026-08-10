@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
