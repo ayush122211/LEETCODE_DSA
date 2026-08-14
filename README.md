@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
