@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3895-count-digit-appearances) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
+| [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
