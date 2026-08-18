@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Enumeration
 |  |
