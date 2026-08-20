@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
