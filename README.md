@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
