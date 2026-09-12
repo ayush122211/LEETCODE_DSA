@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Number Theory
 |  |
 | ------- |
