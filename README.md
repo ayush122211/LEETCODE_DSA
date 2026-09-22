@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0078-subsets) |
 | [0461-hamming-distance](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
