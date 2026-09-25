@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1108-defanging-an-ip-address) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2716-minimize-string-length](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2810-faulty-keyboard) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2716-minimize-string-length](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2716-minimize-string-length) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
