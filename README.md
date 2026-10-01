@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
