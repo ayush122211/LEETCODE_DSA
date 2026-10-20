@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0074-search-a-2d-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0090-subsets-ii) |
 ## Sliding Window
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
