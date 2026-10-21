@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-transpose-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0051-n-queens) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
