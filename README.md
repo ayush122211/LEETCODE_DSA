@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1108-defanging-an-ip-address) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2810-faulty-keyboard) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
