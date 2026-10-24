@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
