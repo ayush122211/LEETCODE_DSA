@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
 | [1122-relative-sort-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1122-relative-sort-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
