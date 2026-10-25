@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1122-relative-sort-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
