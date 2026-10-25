@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
