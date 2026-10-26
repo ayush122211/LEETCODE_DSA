@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
