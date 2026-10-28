@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1925-count-square-sum-triples) |
 | [2469-convert-the-temperature](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1925-count-square-sum-triples) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
