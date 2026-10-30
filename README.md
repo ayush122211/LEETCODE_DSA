@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1925-count-square-sum-triples) |
 | [2469-convert-the-temperature](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2579-count-total-number-of-colored-cells) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0155-min-stack) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
