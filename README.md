@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3895-count-digit-appearances) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ayush122211/LEETCODE_DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0134-gas-station) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
