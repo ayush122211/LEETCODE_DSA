@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0447-number-of-boomerangs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0447-number-of-boomerangs) |
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
+| [0447-number-of-boomerangs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0447-number-of-boomerangs) |
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0204-count-primes) |
+| [0447-number-of-boomerangs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0447-number-of-boomerangs) |
 | [0633-sum-of-square-numbers](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
