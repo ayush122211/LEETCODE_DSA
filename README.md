@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
