@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2278-percentage-of-letter-in-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
