@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3794-reverse-string-prefix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Enumeration
 |  |
 | ------- |
