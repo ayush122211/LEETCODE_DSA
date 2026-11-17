@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2000-reverse-prefix-of-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2716-minimize-string-length) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3794-reverse-string-prefix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0844-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
