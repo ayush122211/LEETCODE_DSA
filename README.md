@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3866-first-unique-even-element) |
 | [3895-count-digit-appearances](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3895-count-digit-appearances) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/ayush122211/LEETCODE_DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Divide and Conquer
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3794-reverse-string-prefix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
