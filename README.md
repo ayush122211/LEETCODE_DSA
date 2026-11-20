@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2716-minimize-string-length](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2716-minimize-string-length) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3794-reverse-string-prefix](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1925-count-square-sum-triples) |
+| [2367-number-of-arithmetic-triplets](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
