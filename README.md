@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2525-categorize-box-according-to-criteria) |
 | [2579-count-total-number-of-colored-cells](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2579-count-total-number-of-colored-cells) |
+| [3099-harshad-number](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayush122211/LEETCODE_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
