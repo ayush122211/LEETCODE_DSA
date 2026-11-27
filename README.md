@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ayush122211/LEETCODE_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/ayush122211/LEETCODE_DSA/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayush122211/LEETCODE_DSA/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Enumeration
